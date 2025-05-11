@@ -15,7 +15,7 @@ Repositório para aprendizado
 ### 📊 Estatísticas do GitHub
 ![Erick´s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickCorreia&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCorreia&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCorreia&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
