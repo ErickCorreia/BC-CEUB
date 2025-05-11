@@ -6,8 +6,9 @@ Repositório para aprendizado
 💻 Apaixonado por aprender e evoluir no universo DEV!
 
 ### 🚀 Tecnologias que estou aprendendo:
-- Python 🐍
-- Banco de Dados 🗄️
+![badge](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -22,7 +23,9 @@ Repositório para aprendizado
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ckkzin_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-correia-60911335a/)
 
-![Descrição do GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtyZW02N2JueTU5NW5ueXpmMTZ1dXQ5dXQ5eXFvcWUwMjRoenY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1CRLn4g4MiIyA/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtyZW02N2JueTU5NW5ueXpmMTZ1dXQ5dXQ5eXFvcWUwMjRoenY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1CRLn4g4MiIyA/giphy.gif" width="800"/>
+</p>
 
 
 ---
